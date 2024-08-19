@@ -185,6 +185,7 @@ type CP = ConstructorParameters<typeof User>;
 
 
 #### Awaited
+
 ```ts
 type A = Awaited<Promise<string>>;
 
